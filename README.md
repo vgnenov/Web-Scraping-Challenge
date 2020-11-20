@@ -20,4 +20,4 @@ Using MongoDB and Flask templating to create a new HTML page that displays all o
 
 ## Results
 
-![Screenshot](Screenshots/mars.jpg "Screenshot")
+![Screenshot](Screenshots/mars2.jpg "Screenshot")

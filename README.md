@@ -17,3 +17,7 @@ Initial scraping utilizing Jupyter Notebook, BeautifulSoup, Pandas, and Requests
 Using MongoDB and Flask templating to create a new HTML page that displays all of the information that was scraped from the previous step.  This was possible by converting the Jupyter notebook into a python script called scrape_mars.py with a function called scrape.
 
 ![Screenshot](Screenshots/scrape2.JPG "Screenshot")
+
+## Results
+
+![Screenshot](Screenshots/mars.jpg "Screenshot")

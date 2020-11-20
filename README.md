@@ -7,4 +7,6 @@ Build a web application that scrapes various websites for data related to the Mi
 ## Process
 
 ### Step 1 - Scraping
-Initial scraping utilizing Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter
+Initial scraping utilizing Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
+
+- Code snippet of sacraping and analysis tasks ![Screenshot](Screenshots/scrape.JPG "Screenshot")
